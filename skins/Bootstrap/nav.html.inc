@@ -22,12 +22,14 @@
                 <li class="nav-item">
                     <a class="nav-link" href="history.html">$gettext("History")</a>
                 </li>
+                <!--
                 <li class="nav-item">
                     <a class="nav-link" href="news.html">$gettext("News")</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="about.html">$gettext("About")</a>
                 </li>
+                -->
             </ul>
             <span class="navbar-text">$gettext("Last update") <span id="lastUpdate">$current.dateTime</span>
       </span>
