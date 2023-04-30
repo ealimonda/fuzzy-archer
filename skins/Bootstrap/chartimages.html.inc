@@ -18,7 +18,7 @@
                     #if isinstance($value, dict)
                     <div class="chart">
                         <div class="modal fade" id="large-${imageName}Modal" tabindex="-1" aria-hidden="true">
-                            <div class="modal-dialog" style="max-width: 900px">
+                            <div class="modal-dialog" style="max-width: 1240px">
                                 <div class="modal-content">
                                     <div class="modal-header">
                                         <button type="button" class="btn-close" data-bs-dismiss="modal"
